@@ -1,5 +1,11 @@
 # Calculator
 
+This project is a simple calculator using angular.js  
+  
+To run this project first you need to install the package with the following command  
+
+`npm install`  
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
 
 ## Development server
